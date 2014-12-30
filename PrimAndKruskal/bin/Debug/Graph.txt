@@ -1,0 +1,12 @@
+X Y Z D E F 
+X Y 2
+Y X 3
+X Z 1
+Z X 4
+E Y 3
+Y F 5
+Z F 2
+Z D 1
+D Z 1
+D F 5
+E D 7

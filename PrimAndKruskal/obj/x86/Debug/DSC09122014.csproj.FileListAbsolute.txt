@@ -1,0 +1,8 @@
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\bin\Debug\DSC09122014.exe
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\bin\Debug\DSC09122014.pdb
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.exe
+c:\users\hp\documents\visual studio 2010\Projects\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.pdb
+C:\Users\mehmet\Desktop\Yeni klasör\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.exe
+C:\Users\mehmet\Desktop\Yeni klasör\DSC09122014\DSC09122014\obj\x86\Debug\DSC09122014.pdb
+C:\Users\mehmet\Desktop\Yeni klasör\prim\DSC09122014\obj\x86\Debug\DSC09122014.exe
+C:\Users\mehmet\Desktop\Yeni klasör\prim\DSC09122014\obj\x86\Debug\DSC09122014.pdb

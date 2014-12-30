@@ -1,0 +1,5 @@
+C:\Users\mehmet\Desktop\Yeni klasör\prim\DSC09122014\obj\x86\Debug\DSC09122014.exe
+C:\Users\mehmet\Desktop\Yeni klasör\prim\DSC09122014\obj\x86\Debug\DSC09122014.pdb
+C:\Users\mehmet\Desktop\Yeni klasör\prim\DSC09122014\bin\Debug\DSC09122014.exe
+C:\Users\mehmet\Desktop\Yeni klasör\prim\DSC09122014\bin\Debug\DSC09122014.pdb
+C:\Users\mehmet\Desktop\Yeni klasör\prim\DSC09122014\obj\x86\Debug\prim.csprojResolveAssemblyReference.cache
